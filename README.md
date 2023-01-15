@@ -18,8 +18,6 @@
 &nbsp;
 &nbsp;
 
-## or
-
  활동중인 고객의 연락처가 변경되어 휴면상태 고객과 중복되는 상황이 발생했다.
  중복된 연락처를 가진 고객의 이름과 연락처 정보의 레코드를 조회하라.
 >  SELECT name,phone FROM members WHERE phone like %010-1111-1111%;
