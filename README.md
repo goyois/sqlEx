@@ -16,7 +16,6 @@
 >  SELECT * FROM members WHERE name LIKE '김%';
 
 &nbsp;
-&nbsp;
 
 ## or
 
